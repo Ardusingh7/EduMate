@@ -1,0 +1,5 @@
+flask
+google-api-python-client
+openai
+youtube-transcript-api
+google-cloud-vision
